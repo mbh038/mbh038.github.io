@@ -1,2 +1,2 @@
 # mbh038.github.io
-my gihub pages  repo
+my github pages  repo
