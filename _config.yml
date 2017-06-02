@@ -1,13 +1,1 @@
-#site settings
-title: Michael Hunt
-author: Michael Hunt
-description: "Michael's site for data analysis and modelling"
-
-# build settings
-port: 4000
-highlighter: rouge
-markdown: kramdown
-permalink: pretty
-
-#Google stuff
-google_analytics: UA-100400636-1
+markdown:   kramdown

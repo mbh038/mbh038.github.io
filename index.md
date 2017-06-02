@@ -3,12 +3,12 @@ layout: cv
 title: Michael Hunt's CV
 ---
 # Michael Hunt
-Physics PhD and data scientist
+Bioinformatics PhD and data scientist
 
 <div id="webaddress">
-<a href="mailto:mbh038@gmail.com">mbh038@gmail.com</a>
+<a href="mailto:ben@blm.io">ben@blm.io</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/mbh038">mbh038</a>
+<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
 </div>
@@ -16,12 +16,12 @@ Physics PhD and data scientist
 
 ## Currently
 
-I am currently an HE lecturer at [Cornwall College](www.cornwall.ac.uk/). I run the BSc in Renewable Energy and Carbon Management.
+I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
 
 ## Employment
 
-`1998-`
-__Cornwall College__ Lecturer in Science; Curriculum Area Manager; Course manager: BSc Renewable Energy andf Carbon Management
+`2015-`
+__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
 
 ## Education
 
