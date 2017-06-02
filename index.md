@@ -3,25 +3,42 @@ layout: cv
 title: Michael Hunt's CV
 ---
 # Michael Hunt
-Bioinformatics PhD and data scientist
+Physics PhD and data scientist
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:mbh038@gmail.com">mbh038@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/mbh038">mbh038</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/Michael74030350">Michael Hunt</a>
 </div>
 
 
 ## Currently
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I am an HE lecturer at  [Cornwall College](http://www.cornwall.ac.uk/). I have written and taught many HE courses up to Masters Level.
 
 ## Employment
 
-`2015-`
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+`1998-`
+__Cornwall College__ HE lecturer, course manager and curriculum area manager.
+
+`1997-1998`
+__CNRS Lab. Louis Neel__ OXSEN Research Fellow, developing magnetic transistors.
+
+`1996-1997`
+__Physics Department, University of Zuerich__ Oxygen isotope investigations of Hi Tc superconductors using dilatometry.
+
+`1995-1996`
+__ABB Applied Physics Group, Corporate Research Centre, Baden Daettwil__ Dilatometric studies of 1 MW Hi Tc superconducting current limiter.
+
+`1995-1996`
+__Solid State Physics Lab., ETH Zuerich__ Low temperature studies of transport properties in metals
+
+`1981-1982`
+__Research Centre, British Gas, Solihull, UK__ Coding in FORTRAN and assembly to support gas dispersion investigations.
+
+
 
 ## Education
 
@@ -52,6 +69,7 @@ MRC IGMM research seminars and section meetings (_various_)
 Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
 
 blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
+
 
 ### Posters
 
@@ -99,21 +117,18 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 ## Technical skills
 
+* Python
 * R
+* C++
+* MATLAB
 * Statistics
 * LaTeX
-* Git / Mercurial
-* UNIX
-* Python
+* Git
+* Linux
 * Machine learning
 * Bash
-* Emacs
-* Inkscape
 * Data visualisation
-* Mediawiki
-* Cluster computing
-* HTML and CSS
-* Javascript
+
 
 ## Projects
 
