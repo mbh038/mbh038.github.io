@@ -5,7 +5,7 @@ description: "Michael's site for data analysis and modelling"
 
 # build settings
 port: 4000
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 permalink: pretty
 
