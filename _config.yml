@@ -1,3 +1,5 @@
 name: Michael Hunt
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
+source:      _source
+destination: _deploy
