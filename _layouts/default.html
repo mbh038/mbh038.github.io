@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 	<html>
-		<head>
-			{% include analytics.html %}
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
+
+		{% include analytics.html %}
+		{% include head.html %}
+
 		<body>
 			<nav>
 	    		<ul>
@@ -20,11 +18,8 @@
 			{{ content }}
 
 			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:mbh038@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/mbh038">github.com/mbh038</a></li>
-				</ul>
-			</footer>
+
+			{% include footer.html %}
+
 		</body>
 	</html>

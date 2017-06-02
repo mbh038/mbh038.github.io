@@ -1,4 +1,13 @@
-name: Michael Hunt
-permalink: /blog/:year/:month/:day/:title
+#site settings
+title: YMichael Hunt
+author: Michael Hunt
+description: "Michael's site for data analysis and modelling"
+
+# build settings
+port: 4000
+highlighter: pygments
 markdown: kramdown
+permalink: pretty
+
+#Google stuff
 google_analytics: UA-100400636-1
