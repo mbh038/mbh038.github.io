@@ -1,3 +1,4 @@
 name: Michael Hunt
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
+google_analytics: UA-100400636-1
