@@ -53,11 +53,6 @@ __University of Cambridge__ BA Natural Science (Physics)
 
 ## Presentations
 
-### Tutorials
-
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
-
 ### Talks
 
 `2016`
@@ -71,8 +66,20 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 ## Certifications  
 
+|---
+| Default aligned | Left aligned | Center aligned | Right aligned
+|-|:-|:-:|-:
+| 2015 | Coursera | The Data Scientists Toolbox | 100%
+| Second line |foo | **strong** | baz
+| Third line |quux | baz | bar
+|---
+| Second body
+| 2 line
+|===
+| Footer row
+
 2015|Coursera|The Data Scientists Toolbox|100%  
-2015| Coursera |R Programming|100%  
+2015|Coursera |R Programming|100%  
 2015 |Coursera |Getting and Cleaning Data|100%  
 2015 |Coursera| Exploratory Data Analysis|100%  
 
