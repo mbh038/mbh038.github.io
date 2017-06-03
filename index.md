@@ -67,7 +67,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 ## Certifications  
 
-Coursera | The Data Scientist's Toolbox |JHU|100%|
+|Coursera | The Data Scientist's Toolbox |JHU|100%
 |Coursera | R Programming|JHU|100%
 |Coursera | Getting and Cleaning Data |JHU| 100%
 |Coursera | Exploratory Data Analysis |JHU| 100%
