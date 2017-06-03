@@ -3,7 +3,7 @@ layout: cv
 title: Michael Hunt's CV
 ---
 # Michael Hunt
-Physics PhD and data scientist
+Physics PhD and aspiring data scientist
 
 <div id="webaddress">
 <a href="mailto:mbh038@gmail.com">mbh038@gmail.com</a>
@@ -16,7 +16,7 @@ Physics PhD and data scientist
 
 ## Currently
 
-I have worked as a lecturer in the HE in FE sector for 19 years, having previously been a research physicist in Switzerland and France for 6 years. I have written, managed and delivered a number of HE courses up to Masters level, including a BSc Renewable Energy and Carbon Management. In the last two years I have successfully completed many (>25) MOOCs in statistical analysis, machine learning, big data and more, mainly using R, and Python but also Matlab, MS Azure and other tools. I have so far used these new skills to carry out market research, to model heat flows in old buildings, to simulate wind speed and solar variation and to model a pumped storage energy solution for a local town.  The heat flow work was part of a long running collaboration with conservation officers within Cornwall Council, funded by a Townscape Heritage Initiative lottery money. It was published last year and presented at an international conference (EECHB 2016).
+I have worked as a lecturer in the HE in FE sector for 19 years, having previously been a research physicist in Switzerland and France for 6 years. I have written, managed and delivered a number of HE courses up to Masters level, including a BSc Renewable Energy and Carbon Management. In the last two years I have successfully completed many (>25) MOOCs in statistical analysis, machine learning, big data and more, mainly using R, and Python but also Matlab, MS Azure and other tools. I have so far used these new skills to carry out market research, to model heat flows in old buildings, to simulate wind speed and solar variation and to model a pumped storage energy solution for a local town.  The heat flow work was part of a long running collaboration with conservation officers within Cornwall Council, funded by a Townscape Heritage Initiative lottery money. It was published last year and presented at an international conference (EECHB 2016). I am now embarking on a machine learning/IoT project to develop a biologger and software to determine the state of movement of farm animals from accelerometer data alone.
 
 
 ## Employment
@@ -67,7 +67,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 ## Certifications  
 
-Many online courses in 2015-2016.  e code written for most of these can be found in repos on my GitHub page. Most courses required between 20 and 100 hours of work over several weeks.
+Many online courses in 2015-2016.  The code written for most of these can be found in repos on my GitHub page. Most courses required between 20 and 100 hours of work over 4 - 8 weeks.
 
 |Coursera | The Data Scientist's Toolbox |JHU|100%
 |Coursera | R Programming|JHU|100%
@@ -94,7 +94,7 @@ Many online courses in 2015-2016.  e code written for most of these can be found
 |edX | Machine Learning |U. Stanford| 100%
 |edX | Statistics and R |HarvardX| 100%
 |edX | Introduction to Linear Models and Matrix Algebra |HarvardX| 100%
-|edX | Statistical Inference and Modeling for High-throughput Experiments| 98%
+|edX | Statistical Inference and Modeling for High-throughput Experiments|HarvardX| 98%
 |edX | High-Dimensional Data Analysis |HarvardX| 100%
 |edX | Introduction to Bioconductor: Annotation and Analysis of Genomes and Genomic Assays |HarvardX| 99%
 |edX | High-performance Computing for Reproducible Genomics |HarvardX| 99%
