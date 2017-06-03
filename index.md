@@ -92,7 +92,7 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 |Coursera | Programming for Everybody |U. Michigan| 100%
 |Coursera | Using Python to Access Web Data |U. Michigan| 100%
 |Coursera | Using Databases with Python |U. Michigan| 100%
-|edX | Introduction to Computer Science and Programming using Python |MITx| 98%
+|edX | Introduction to Computer Science and Programming using Python     |MITx| 98%
 |edX | Introduction to Computational Thinking and Data Science |MITx| 97%  
 |edX | Data Science and ML Essentials |Microsoft| 93%
 
