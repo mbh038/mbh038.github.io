@@ -67,6 +67,8 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 ## Certifications  
 
+Many online courses in 2015-2016.  e code written for most of these can be found in repos on my GitHub page. Most courses required between 20 and 100 hours of work over several weeks.
+
 |Coursera | The Data Scientist's Toolbox |JHU|100%
 |Coursera | R Programming|JHU|100%
 |Coursera | Getting and Cleaning Data |JHU| 100%
@@ -87,9 +89,16 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 |Coursera | Using Databases with Python |U. Michigan| 100%
 |edX | Introduction to Computer Science and Programming using Python |MITx| 100%
 |edX | Introduction to Computational Thinking and Data Science |MITx| 100%  
-
-`2016`
 |edX | Data Science and ML Essentials |Microsoft| 100%
+|Lagonita| Statistical Learning |U. Stanford| 88%
+|edX | Machine Learning |U. Stanford| 100%
+|edX | Statistics and R |HarvardX| 100%
+|edX | Introduction to Linear Models and Matrix Algebra |HarvardX| 100%
+|edX | Statistical Inference and Modeling for High-throughput Experiments| 100%
+|edX | High-Dimensional Data Analysis |HarvardX| 100%
+|edX | Introduction to Bioconductor: Annotation and Analysis of Genomes and Genomic Assays |HarvardX| 100%
+|edX | High-performance Computing for Reproducible Genomics |HarvardX| 100%
+|edX | Case Studies in Functional Genomics |HarvardX| 100%
 
 ## Technical skills
 
