@@ -105,7 +105,7 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 |edX | Introduction to Linear Models and Matrix Algebra |HarvardX| 100%
 |edX | Statistical Inference and Modeling for High-throughput Experiments|HarvardX| 98%
 |edX | High-Dimensional Data Analysis |HarvardX| 100%
-|edX | Introduction to Bioconductor: Annotation and Analysis of Genomes and Genomic Assays |HarvardX| 99%
+|edX | Intro. to Bioconductor: Annotation and Analysis of Genomes and Genomic Assays |HarvardX| 99%
 |edX | High-performance Computing for Reproducible Genomics |HarvardX| 99%
 |edX | Case Studies in Functional Genomics |HarvardX| 99%
 |edX | Global Warming Science |HarvardX| 100%
