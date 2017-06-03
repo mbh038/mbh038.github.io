@@ -87,8 +87,8 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
  2015 |Coursera | Using Python to Access Web Data |U. Michigan| 100%
  2015 |Coursera | Using Databases with Python |U. Michigan| 100%
  2015 |edX | Introduction to Computer Science and Programming using Python |MITx| 100%
- 2015 |edX | Introduction to Computational Thinking and Data Science |MITx| 100%
- `2016`
+ 2015 |edX | Introduction to Computational Thinking and Data Science |MITx| 100%  
+ `2016`  
 |edX | Data Science and ML Essentials |Microsoft| 100%
 
 ## Technical skills
