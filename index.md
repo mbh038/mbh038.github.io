@@ -44,7 +44,7 @@ __Research Centre, British Gas, Solihull, UK__ Coding in FORTRAN and assembly to
 ## Education
 
 `1989-1992`
-__University of Bristol__ PhD Physics "A de Haas-van Alphen Investigation of the heavy fermion superconductor Ce CU_2Si_2" (supervisor: Mike Springford)
+__University of Bristol__ PhD Physics "A de Haas-van Alphen Investigation of the heavy fermion superconductor Ce CU<sub>2</sub>Si_2" (supervisor: Mike Springford)
 
 `1987-1988`
 __University of Sussex__ MSc Physics by Research (_Distinction_)
