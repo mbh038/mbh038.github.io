@@ -49,7 +49,7 @@ __University of Bristol__ PhD Physics "A de Haas-van Alphen Investigation of the
 __University of Sussex__ MSc Physics by Research (_Distinction_)
 
 `1982-1985`
-__University of Cambridge__ BA Natural Science (Physics) (_First class honours_)
+__University of Cambridge__ BA Natural Science (Physics)
 
 ## Presentations
 
@@ -60,60 +60,14 @@ WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
 
 ### Talks
 
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
-
-MRC IGMM research seminars and section meetings (_various_)
-
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
-
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
-
-
-### Posters
-
-`2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
-
-`2014`
-_ISMB_ (Boston MA, USA)
-
-_Genome informatics_ (Cambridge, UK)
-
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
-
-`2013`
-_Genome informatics_ (CSHL NY, USA)
-
-_EpiGeneSys_ (Cambridge, UK)
-
+`2016`
+EECHB: Life Cycle Analysis of Historic Buildings in Cornwall(_EECHB_, Brussels, Belgium)
 
 ## Publications
 
+I have 24 publications in peer reviewed journals, almost all dating from my years as a post-grad and post-doc 1989-1998. See my profile on [Research Gate](https://www.researchgate.net/profile/Michael_Hunt3) for a listing of these. One was published in Nature and has over 200 citations. More recently (2016) I presented work at an international conference (EECHB, 2016) on energy efficiency in old buildings.  This was an analysis carried out using R of heat flow through thick, solid walls.
 <!-- ### Journals -->
-`2017`
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
 
-`2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
-
-`2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
-
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
-
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
-
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
-
-## Non-academic
-
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 
 ## Technical skills
 
@@ -168,12 +122,11 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:mbh038@gmail.com">mbh038@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/mbh038">mbh038@gmail.com</a><br />
+*  <i class="fa fa-twitter"></i> <a href="https://twitter.com/Michael74030350?lang=en-gb">bMichael Hunt</a><br />
+*  <i class="fa fa-research gate"></i> <a href="https://www.researchgate.net/profile/Michael_Hunt3">Michael Hunt</a><br />
+* <i class="fa fa-google"></i> <a href="https://scholar.google.co.uk/citations?user=CzkAKxMAAAAJ&hl=en>scholar</a>
 
 ## References
 
