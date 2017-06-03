@@ -68,7 +68,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 ## Certifications  
 
 `2015`
-|Coursera | The Data Scientists Toolbox |JHU|100%|
+Coursera | The Data Scientists Toolbox |JHU|100%|
 |Coursera | R Programming|JHU|100%
 |Coursera | Getting and Cleaning Data |JHU| 100%
 |Coursera | Exploratory Data Analysis |JHU| 100%
@@ -90,7 +90,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 |edX | Introduction to Computational Thinking and Data Science |MITx| 100%  
 
 `2016`
-|edX | Data Science and ML Essentials |Microsoft| 100%
+edX | Data Science and ML Essentials |Microsoft| 100%
 
 ## Technical skills
 
