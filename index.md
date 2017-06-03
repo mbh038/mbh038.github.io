@@ -69,14 +69,13 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 <!-- ### Journals -->
 
 
-##Certifications
-2015|Coursera|The Data Scientists Toolbox|100%
-2015| Coursera |R Programming|100%
-2015 |Coursera |Getting and Cleaning Data|100%
-2015 |Coursera| Exploratory Data Analysis|100%
+## Certifications  
 
- 
-JHU 100% R
+2015|Coursera|The Data Scientists Toolbox|100%  
+2015| Coursera |R Programming|100%  
+2015 |Coursera |Getting and Cleaning Data|100%  
+2015 |Coursera| Exploratory Data Analysis|100%  
+
 ## Technical skills
 
 * Python
