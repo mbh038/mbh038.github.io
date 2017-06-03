@@ -91,7 +91,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 ## Placements
 
 ## Interests
-[Trail running](https://www.strava.com/athletes/2833710) - several times a week, most weeks.
+[Trail running](https://www.strava.com/athletes/2833710) - several times a week, most weeks.  
 [Project Euler](https://projecteuler.net/progress) - 181 problems solved so far, using Python, C++, Mathematica, Matlab and R. Homing in on the UK top 50
 
 ## Links
