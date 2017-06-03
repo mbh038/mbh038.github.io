@@ -16,7 +16,8 @@ Physics PhD and data scientist
 
 ## Currently
 
-I am an HE lecturer at  [Cornwall College](http://www.cornwall.ac.uk/). I have written and taught many HE courses up to Masters Level.
+I have worked as a lecturer in the HE in FE sector for 19 years, having previously been a research physicist in Switzerland and France for 6 years. I have written, managed and delivered a number of HE courses, including a BSc Renewable Energy and am now writing an FdSc Data Science. In the last two years I have successfully completed many (>25) MOOCs in statistical analysis, machine learning, big data and more, mainly using R, and Python but also Matlab, MS Azure and other tools. I have so far used these new skills to carry out market research, to model heat flows in old buildings, to simulate wind speed and solar variation and to model a pumped storage energy solution for a local town.  e heat flow work was part of a long running collaboration with conservation officers within Cornwall Council, funded by a Townscape Heritage Initiative lottery money. It was published last year and presented at an international conference (EECHB 2016).
+
 
 ## Employment
 
@@ -65,7 +66,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 
 ## Certifications  
-
+<!-- ### Table
 |---
 | Default aligned | Left aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
@@ -77,7 +78,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 | 2 line
 |===
 | Footer row
-
+-->
 * 2015|Coursera|The Data Scientists Toolbox|100%  
 * 2015|Coursera |R Programming|100%  
 * 2015 |Coursera |Getting and Cleaning Data|100%  
