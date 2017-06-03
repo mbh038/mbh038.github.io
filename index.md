@@ -67,10 +67,22 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 ## Certifications  
 
- 2015 |Coursera | The Data Scientists Toolbox |100%
- 2015 |Coursera | R Programming|100%
- 2015 |Coursera | Getting and Cleaning Data | 100%
- 2015 |Coursera | Exploratory Data Analysis | 100%
+ 2015 |Coursera | The Data Scientists Toolbox |JHU|100%
+ 2015 |Coursera | R Programming|JHU|100%
+ 2015 |Coursera | Getting and Cleaning Data |JHU| 100%
+ 2015 |Coursera | Exploratory Data Analysis |JHU| 100%
+ 2015 |Coursera | Reproducible Research |JHU| 100%
+ 2015 |Coursera | Statistical Inference |JHU| 100%
+ 2015 |Coursera | Regression Models |JHU| 100%
+ 2015 |Coursera | Practical Machine Learning |JHU| 100%
+ 2015 |Coursera | Developing Data Products |JHU| 100%
+ 2015 |Coursera | Data Analysis and Statistical Inference |Duke| 100%
+ 2015 |edX | The Analytics Edge |MITx| 100%
+ 2015 |FutureLearn | Big Data | U. Warwick|100%
+ 2015 |Coursera | Introduction to Big Data|U. San Diego| 100%
+ 2015 |Coursera | Hadoop Platform and Application Framework|U. San Diego | 100%
+ 2015 |Coursera | Introduction to Big Data Analytics|U. San Diego | 100%
+ 2015 |Coursera | Programming for Everybody |U. Michigan| 100%
 
 ## Technical skills
 
