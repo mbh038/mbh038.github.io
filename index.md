@@ -66,7 +66,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 
 ## Certifications  
-<!-- ### Table
+
 |---
 | Default aligned | Left aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
@@ -78,7 +78,8 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 | 2 line
 |===
 | Footer row
--->
+
+
 * 2015|Coursera|The Data Scientists Toolbox|100%  
 * 2015|Coursera |R Programming|100%  
 * 2015 |Coursera |Getting and Cleaning Data|100%  
