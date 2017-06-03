@@ -95,7 +95,7 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 |edX | Introduction to Computational Thinking and Data Science |MITx| 97%  
 |edX | Data Science and ML Essentials |Microsoft| 93%
 
-`2016`
+`2016`  
 
 |__Platform__|__Course__|__Institution__|__Grade__
 |Lagonita | Statistical Learning        |U. Stanford| 88%
