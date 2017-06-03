@@ -123,9 +123,9 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 ## Links
 
 * <i class="fa fa-envelope"></i> <a href="mailto:mbh038@gmail.com">mbh038@gmail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/mbh038">mbh038@gmail.com</a><br />
-*  <i class="fa fa-twitter"></i> <a href="https://twitter.com/Michael74030350?lang=en-gb">bMichael Hunt</a><br />
-*  <i class="fa fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Michael_Hunt3">Michael Hunt</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/mbh038">Michael Hunt</a><br />
+* <i class="fa fa-twitter"></i> <a href="https://twitter.com/Michael74030350?lang=en-gb">Michael Hunt</a><br />
+* <i class="fa fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Michael_Hunt3">Michael Hunt</a><br />
 * <i class="fa fa-google"></i> <a href="https://scholar.google.co.uk/citations?user=CzkAKxMAAAAJ&hl=en">scholar</a>
 
 ## References
