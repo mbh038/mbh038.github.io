@@ -69,7 +69,7 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 
 `2015`
 
-|__Platform__|__Course__|__Institution__|__Grade__
+__Platform__|__Course__|__Institution__|__Grade__
 |Coursera | The Data Scientist's Toolbox |JHU|100%
 |Coursera | R Programming|JHU|100%
 |Coursera | Getting and Cleaning Data |JHU| 100%
@@ -94,7 +94,7 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 
 `2016`
 
-|Lagonita| Statistical Learning |U. Stanford| 88%
+Lagonita| Statistical Learning |U. Stanford| 88%
 |edX | Machine Learning |U. Stanford| 100%
 |edX | Statistics and R |HarvardX| 100%
 |edX | Introduction to Linear Models and Matrix Algebra |HarvardX| 100%
