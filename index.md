@@ -70,6 +70,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 Many online courses in 2015-2016.  The code written for most of these can be found in repos on my GitHub page. Most courses required between 20 and 100 hours of work over 4 - 8 weeks.
 
+
 `2015`
 
 |__Platform__|__Course__|__Institution__|__Grade__
