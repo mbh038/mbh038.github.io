@@ -54,8 +54,6 @@ __University of Cambridge__ BA Natural Science (Physics)
 
 ## Presentations
 
-### Talks
-
 `2016`
 EECHB: Life Cycle Analysis of Historic Buildings in Cornwall(_EECHB_, Brussels, Belgium)
 
@@ -68,6 +66,8 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 ## Certifications  
 
 Many online courses in 2015-2016.  The code written for most of these can be found in repos on my GitHub page. Most courses required between 20 and 100 hours of work over 4 - 8 weeks.
+
+`2015`
 
 |__Platform__|__Course__|__Institution__|__Grade__
 |Coursera | The Data Scientist's Toolbox |JHU|100%
@@ -91,6 +91,9 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 |edX | Introduction to Computer Science and Programming using Python |MITx| 98%
 |edX | Introduction to Computational Thinking and Data Science |MITx| 97%  
 |edX | Data Science and ML Essentials |Microsoft| 93%
+
+`2016`
+
 |Lagonita| Statistical Learning |U. Stanford| 88%
 |edX | Machine Learning |U. Stanford| 100%
 |edX | Statistics and R |HarvardX| 100%
@@ -119,12 +122,10 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 * Bash
 * Data visualisation
 
-
-## Projects
-
 ## Awards
 
-## Placements
+`2017`
+Cornwall College Internal Research Funding: __From relationships to disease.....Real time tracking of social interactions, locomotion and grazing patterns and their potential associations with common production challenges: A pilot study__ (with Anna Walker)
 
 ## Interests
 [Trail running](https://www.strava.com/athletes/2833710) - several times a week, most weeks.  
@@ -133,7 +134,7 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 ## Links
 
 * <i class="fa fa-envelope"></i> <a href="mailto:mbh038@gmail.com">email</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/mbh038">github</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/mbh038">GitHub</a><br />
 * <i class="fa fa-twitter"></i> <a href="https://twitter.com/Michael74030350?lang=en-gb">twitter</a><br />
 * <i class="fa fa-research-gate"></i> <a href="https://www.researchgate.net/profile/Michael_Hunt3">Research gate</a><br />
 * <i class="fa fa-google"></i> <a href="https://scholar.google.co.uk/citations?user=CzkAKxMAAAAJ&hl=en">Google scholar</a>
