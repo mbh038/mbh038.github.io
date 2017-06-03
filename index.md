@@ -66,6 +66,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 
 ## Certifications  
+
 `2015`
 |Coursera | The Data Scientist's Toolbox |JHU|100%
 |Coursera | R Programming|JHU|100%
