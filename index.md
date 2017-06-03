@@ -44,10 +44,13 @@ __Research Centre, British Gas, Solihull, UK__ Coding in FORTRAN and assembly to
 ## Education
 
 `1989-1992`
-__University of Bristol__ PhD Physics "A de Haas-van Alphen Investigation of the heavy fermion superconductor CeCu<sub>2</sub>Si2" (supervisor: Mike Springford)
+__University of Bristol__ PhD Physics  
+"A de Haas-van Alphen Investigation of the heavy fermion superconductor CeCu<sub>2</sub>Si2"  
+_Supervisor: Mike Springford_
 
 `1987-1988`
-__University of Sussex__ MSc Physics by Research (_Distinction_)
+__University of Sussex__ MSc Physics by Research  
+_"A de haas-van Alphen investigation of lithium"_ (_Distinction_)
 
 `1982-1985`
 __University of Cambridge__ BA Natural Science (Physics)
@@ -125,7 +128,7 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 ## Awards
 
 `2017`
-Cornwall College Internal Research Funding: __From relationships to disease.....Real time tracking of social interactions, locomotion and grazing patterns and their potential associations with common production challenges: A pilot study__ (with Anna Walker)
+Cornwall College Internal Research Funding: _From relationships to disease.....Real time tracking of social interactions, locomotion and grazing patterns and their potential associations with common production challenges: A pilot study_ (with Anna Walker)
 
 ## Interests
 [Trail running](https://www.strava.com/athletes/2833710) - several times a week, most weeks.  
