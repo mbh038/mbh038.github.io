@@ -45,12 +45,12 @@ __Research Centre, British Gas, Solihull, UK__ Coding in FORTRAN and assembly to
 
 `1989-1992`
 __University of Bristol__ PhD Physics  
-"A de Haas-van Alphen Investigation of the heavy fermion superconductor CeCu<sub>2</sub>Si2"  
+_"A de Haas-van Alphen Investigation of the heavy fermion superconductor CeCu<sub>2</sub>Si2"_  
 _Supervisor: Mike Springford_
 
 `1987-1988`
 __University of Sussex__ MSc Physics by Research  
-_"A de haas-van Alphen investigation of lithium"_ (_Distinction_)
+_"A de Haas-van Alphen investigation of lithium"_ (_Distinction_)
 
 `1982-1985`
 __University of Cambridge__ BA Natural Science (Physics)
@@ -73,7 +73,7 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 `2015`
 
 |__Platform__|__Course__|__Institution__|__Grade__
-|Coursera | The Data Scientist's Toolbox |JHU|100%
+|Coursera | The Data Scientist's Toolbox|JHU        |100% 
 |Coursera | R Programming|JHU|100%
 |Coursera | Getting and Cleaning Data |JHU| 100%
 |Coursera | Exploratory Data Analysis |JHU| 100%
@@ -97,7 +97,7 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 
 `2016`
 
-|Lagonita| Statistical Learning |U. Stanford| 88%
+|Lagonita | Statistical Learning        |U. Stanford| 88%
 |edX | Machine Learning |U. Stanford| 100%
 |edX | Statistics and R |HarvardX| 100%
 |edX | Introduction to Linear Models and Matrix Algebra |HarvardX| 100%
