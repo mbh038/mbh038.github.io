@@ -78,8 +78,8 @@ Many online courses in 2015-2016.  e code written for most of these can be found
 |Coursera | Regression Models |JHU| 100%
 |Coursera | Practical Machine Learning |JHU| 100%
 |Coursera | Developing Data Products |JHU| 100%
-|Coursera | Data Analysis and Statistical Inference |Duke| 100%
-|edX | The Analytics Edge |MITx| 100%
+|Coursera | Data Analysis and Statistical Inference |Duke| 99%
+|edX | The Analytics Edge |MITx| 96%
 |FutureLearn | Big Data | U. Warwick|100%
 |Coursera | Introduction to Big Data|U. San Diego| 100%
 |Coursera | Hadoop Platform and Application Framework|U. San Diego | 100%
@@ -87,18 +87,22 @@ Many online courses in 2015-2016.  e code written for most of these can be found
 |Coursera | Programming for Everybody |U. Michigan| 100%
 |Coursera | Using Python to Access Web Data |U. Michigan| 100%
 |Coursera | Using Databases with Python |U. Michigan| 100%
-|edX | Introduction to Computer Science and Programming using Python |MITx| 100%
-|edX | Introduction to Computational Thinking and Data Science |MITx| 100%  
-|edX | Data Science and ML Essentials |Microsoft| 100%
+|edX | Introduction to Computer Science and Programming using Python |MITx| 98%
+|edX | Introduction to Computational Thinking and Data Science |MITx| 97%  
+|edX | Data Science and ML Essentials |Microsoft| 93%
 |Lagonita| Statistical Learning |U. Stanford| 88%
 |edX | Machine Learning |U. Stanford| 100%
 |edX | Statistics and R |HarvardX| 100%
 |edX | Introduction to Linear Models and Matrix Algebra |HarvardX| 100%
-|edX | Statistical Inference and Modeling for High-throughput Experiments| 100%
+|edX | Statistical Inference and Modeling for High-throughput Experiments| 98%
 |edX | High-Dimensional Data Analysis |HarvardX| 100%
-|edX | Introduction to Bioconductor: Annotation and Analysis of Genomes and Genomic Assays |HarvardX| 100%
-|edX | High-performance Computing for Reproducible Genomics |HarvardX| 100%
-|edX | Case Studies in Functional Genomics |HarvardX| 100%
+|edX | Introduction to Bioconductor: Annotation and Analysis of Genomes and Genomic Assays |HarvardX| 99%
+|edX | High-performance Computing for Reproducible Genomics |HarvardX| 99%
+|edX | Case Studies in Functional Genomics |HarvardX| 99%
+|edX | Global Warming Science |HarvardX| 100%
+|edX | Case Studies in Functional Genomics |MITx| 100%
+|FutureLearn | Causes of Climate Change |U. Bergen| 100%
+|Coursera | Introduction to programming with Matlab |Vanderbilt U.| 100%
 
 ## Technical skills
 
