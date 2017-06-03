@@ -89,6 +89,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 |edX | Introduction to Computational Thinking and Data Science |MITx| 100%  
 
 `2016`
+
 edX | Data Science and ML Essentials |Microsoft| 100%
 
 ## Technical skills
