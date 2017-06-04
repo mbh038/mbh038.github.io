@@ -68,7 +68,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 ## Certifications  
 
-Many online courses completed in 2015-2016.  The code written for most of these can be found in my GitHub repo. Most courses required between 20 and 100 hours of work over 4 - 8 weeks.    
+Many online courses completed in 2015-2016.  The code written for most of these can be found in my GitHub repo. Most courses required between 20 and 100 hours of work over 4 - 12 weeks.    
 
 `2015`  
 
@@ -83,7 +83,7 @@ Many online courses completed in 2015-2016.  The code written for most of these 
 |Coursera | Practical Machine Learning |JHU| 100%
 |Coursera | Developing Data Products |JHU| 100%
 |Coursera | Data Analysis and Statistical Inference |Duke| 99%
-|edX | The Analytics Edge |MITx| 96%
+|edX | [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3) |MITx| 96%
 |FutureLearn | Big Data | U. Warwick|100%
 |Coursera | Introduction to Big Data|U. San Diego| 100%
 |Coursera | Hadoop Platform and Application Framework|U. San Diego | 100%
