@@ -44,7 +44,8 @@ q:before, q:after {
 }
 table {
 	position: relative;
-	width: 75%;
+	width: 60%;
+	font-size: 8pt;
 	border-collapse: collapse;
 	border-spacing: 2;
 	left: 25%;
