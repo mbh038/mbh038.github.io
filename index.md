@@ -58,7 +58,7 @@ __University of Cambridge__ BA Natural Science (Physics)
 ## Recent Presentations
 
 `2016`
-EECHB: Life Cycle Analysis of Historic Buildings in Cornwall [](EECHB, Brussels, Belgium)]((http://www.eechb.eu))
+EECHB: Life Cycle Analysis of Historic Buildings in Cornwall [(EECHB, Brussels, Belgium)]((http://www.eechb.eu))
 
 ## Publications
 
