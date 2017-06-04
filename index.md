@@ -102,7 +102,7 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 |edX | Machine Learning |U. Stanford| 100%
 |edX | Statistics and R |HarvardX| 100%
 |edX | Introduction to Linear Models and Matrix Algebra |HarvardX| 100%
-|edX | Statistical Inference and Modeling for High-throughput Experiments|HarvardX| 98%
+|edX | Stat. Inference and Modeling for high-throughput Experiments|HarvardX| 98%
 |edX | High-Dimensional Data Analysis |HarvardX| 100%
 |edX | Annotation and Analysis of Genomes and Genomic Assays |HarvardX| 99%
 |edX | High-performance Computing for Reproducible Genomics |HarvardX| 99%
