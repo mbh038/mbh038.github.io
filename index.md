@@ -62,16 +62,16 @@ EECHB: Life Cycle Analysis of Historic Buildings in Cornwall(_EECHB_, Brussels, 
 
 ## Publications
 
-I have 24 publications in peer reviewed journals, almost all dating from my years as a post-grad and post-doc 1989-1998. See my profiles on [Research Gate](https://www.researchgate.net/profile/Michael_Hunt3) or [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=CzkAKxMAAAAJ&view_op=list_works&gmla=AJsN-F5qsrBMkWZIAPb3GNpMTwxYMYZ9GItK2ADl3b7F_q59sYpGJfrmvCB5EVf3lx3pYzmzzfo9jIOc1cQ2u0X57oVi4vMyBw) for listings of these. One paper was published in Nature and has over 300 citations. More recently (2016) I presented work at an international conference [](EECHB, 2016)](http://www.eechb.eu) on energy efficiency in historic buildings.  This was an analysis carried out using R of heat flow through thick, solid walls.
+I have 24 publications in peer reviewed journals, almost all dating from my years as a post-grad and post-doc 1989-1998. See my profiles on [Research Gate](https://www.researchgate.net/profile/Michael_Hunt3) or [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=CzkAKxMAAAAJ&view_op=list_works&gmla=AJsN-F5qsrBMkWZIAPb3GNpMTwxYMYZ9GItK2ADl3b7F_q59sYpGJfrmvCB5EVf3lx3pYzmzzfo9jIOc1cQ2u0X57oVi4vMyBw) for listings of these. One paper was published in Nature and has over 300 citations. More recently (2016) I presented work at an international conference [(EECHB, 2016)](http://www.eechb.eu) on energy efficiency in historic buildings.  This was an analysis carried out using R of heat flow through thick, solid walls.
 <!-- ### Journals -->
 
 
 ## Certifications  
 
 Many online courses in 2015-2016.  The code written for most of these can be found in repos on my GitHub page. Most courses required between 20 and 100 hours of work over 4 - 8 weeks.  
+  
 
-
-__ __|__Platform__|__Course__|__Institution__|__Grade__
+   |__Platform__|__Course__|__Institution__|__Grade__
    |Coursera | The Data Scientist's Toolbox|JHU        |100%
 |Coursera | R Programming|JHU|100%
 |Coursera | Getting and Cleaning Data |JHU| 100%
