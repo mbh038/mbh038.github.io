@@ -55,10 +55,10 @@ _"A de Haas-van Alphen investigation of lithium"_ (_Distinction_)
 `1982-1985`
 __University of Cambridge__ BA Natural Science (Physics)
 
-## Presentations
+## Recent Presentations
 
 `2016`
-EECHB: Life Cycle Analysis of Historic Buildings in Cornwall(_EECHB_, Brussels, Belgium)
+EECHB: Life Cycle Analysis of Historic Buildings in Cornwall [](EECHB, Brussels, Belgium)]((http://www.eechb.eu))
 
 ## Publications
 
