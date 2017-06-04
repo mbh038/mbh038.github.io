@@ -69,10 +69,10 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 ## Certifications  
 
 Many online courses in 2015-2016.  The code written for most of these can be found in repos on my GitHub page. Most courses required between 20 and 100 hours of work over 4 - 8 weeks.  
-  
 
-   |__Platform__|__Course__|__Institution__|__Grade__
-   |Coursera | The Data Scientist's Toolbox|JHU        |100%
+
+|__Platform__|__Course__|__Institution__|__Grade__
+|Coursera | The Data Scientist's Toolbox|JHU        |100%
 |Coursera | R Programming|JHU|100%
 |Coursera | Getting and Cleaning Data |JHU| 100%
 |Coursera | Exploratory Data Analysis |JHU| 100%
@@ -93,7 +93,7 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 |edX | Introduction to Computer Science and Programming using Python     |MITx| 98%
 |edX | Introduction to Computational Thinking and Data Science |MITx| 97%  
 |edX | Data Science and ML Essentials |Microsoft| 93%
-2016|Lagonita | Statistical Learning        |U. Stanford| 88%
+|Lagonita | Statistical Learning        |U. Stanford| 88%
 |edX | Machine Learning |U. Stanford| 100%
 |edX | Statistics and R |HarvardX| 100%
 |edX | Introduction to Linear Models and Matrix Algebra |HarvardX| 100%
