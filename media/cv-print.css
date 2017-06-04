@@ -43,8 +43,8 @@ q:before, q:after {
 	content: none;
 }
 table {
-	font: normal normal 400;
-	font-family: "Open sans", sans-serif;
+	/*font: normal normal 400;
+	font-family: "Open sans", sans-serif;*/
 	position: relative;
 	width: 70%;
 	font-size: 8pt;
