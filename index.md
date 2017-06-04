@@ -68,7 +68,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 ## Certifications  
 
-Many online courses in 2015-2016.  The code written for most of these can be found in my GitHub repo. Most courses required between 20 and 100 hours of work over 4 - 8 weeks.    
+Many online courses completed in 2015-2016.  The code written for most of these can be found in my GitHub repo. Most courses required between 20 and 100 hours of work over 4 - 8 weeks.    
 
 `2015`  
 
@@ -134,7 +134,7 @@ Cornwall College Internal Research Funding: _From relationships to disease.....R
 
 ## Interests
 [Trail running](https://www.strava.com/athletes/2833710) - several times a week, most weeks.  
-[Project Euler](https://projecteuler.net/progress) - 181 problems solved so far, using Python, C++, Mathematica, Matlab and R. Homing in on the UK top 50
+[Project Euler](https://projecteuler.net/progress) - 181 problems solved so far, using Python, C++, Mathematica, Matlab, R and pen and paper. Homing in on the UK top 50
 
 ## Links
 
