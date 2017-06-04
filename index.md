@@ -51,6 +51,7 @@ _Supervisor: Mike Springford_
 `1987-1988`
 __University of Sussex__ MSc Physics by Research  
 _"A de Haas-van Alphen investigation of lithium"_ (_Distinction_)
+_Supervisor: Mike Springford_
 
 `1982-1985`
 __University of Cambridge__ BA Natural Science (Physics)
