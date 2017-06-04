@@ -43,11 +43,11 @@ q:before, q:after {
 	content: none;
 }
 table {
-	position: relative;
+	position: absolute;
 	width: 65%;
 	border-collapse: collapse;
 	border-spacing: 2;
-	left: 35%;
+	left: 25%;
 }
 
 /* end of reset */
