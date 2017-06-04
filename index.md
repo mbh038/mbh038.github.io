@@ -98,7 +98,7 @@ Many online courses completed in 2015-2016.  The code written for most of these 
 `2016`
 
 |Coursera|[Data Manipulation at Scale](https://www.coursera.org/learn/data-manipulation)|U. Washington| 100%
-|Lagonita | [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)        |U. Stanford| 88%
+|Lagonita | [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)        |U. Stanford| [88%](https://prod-cert-bucket.s3.amazonaws.com/downloads/f638980db18044e2923fab89821b4530/Statement.pdf)
 |edX | [Machine Learning](https://www.coursera.org/learn/machine-learning) |U. Stanford| [100%](https://www.coursera.org/account/accomplishments/records/LQ7BBGFUMEBX)
 |edX | [Statistics and R](https://www.edx.org/course/statistics-r-harvardx-ph525-1x-0) |HarvardX| 100%
 |edX | [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x-1) |HarvardX| 100%
