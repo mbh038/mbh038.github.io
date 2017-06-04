@@ -68,9 +68,9 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 ## Certifications  
 
-Many online courses in 2015-2016.  The code written for most of these can be found in repos on my GitHub page. Most courses required between 20 and 100 hours of work over 4 - 8 weeks.    
+Many online courses in 2015-2016.  The code written for most of these can be found in my GitHub repo. Most courses required between 20 and 100 hours of work over 4 - 8 weeks.    
 
-
+`2015'`
 |__Platform__|__Course__|__Institution__|__Grade__
 |Coursera | The Data Scientist's Toolbox|JHU        |100%
 |Coursera | R Programming|JHU|100%
@@ -114,9 +114,10 @@ Many online courses in 2015-2016.  The code written for most of these can be fou
 * C++
 * MATLAB
 * Statistics
+* Modelling
 * LaTeX
 * Git
-* Linux
+* Excel
 * Machine learning
 * Bash
 * Data visualisation
