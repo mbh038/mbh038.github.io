@@ -73,31 +73,31 @@ Many online courses completed in 2015-2016.  The code written for most of these 
 `2015`  
 
 |__Platform__|__Course__|__Institution__|__Grade__
-|Coursera | The Data Scientist's Toolbox|JHU        |100%
-|Coursera | R Programming|JHU|[100%](https://www.coursera.org/account/accomplishments/records/YB5A3haQh69yCd9j)
+|Coursera | The Data Scientist's Toolbox|JHU        |[100%](https://www.coursera.org/account/accomplishments/records/G8dhtkM92KtfkbCD)
+|Coursera | [R Programming](https://www.coursera.org/learn/r-programming)|JHU|[100%](https://www.coursera.org/account/accomplishments/records/YB5A3haQh69yCd9j)
 |Coursera | Getting and Cleaning Data |JHU| [100%](https://www.coursera.org/account/accomplishments/records/haUTYgVwNteRZEgf)
 |Coursera | [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/qntw3gt4WDtvzs5z)
 |Coursera | [Reproducible Research](https://www.coursera.org/learn/reproducible-research) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/Xt2fcr8CuVKRWHJJ)
 |Coursera | [Statistical Inference](https://www.coursera.org/learn/statistical-inference) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/exjFUmUGcL2yDcZM)
 |Coursera | [Regression Models](https://www.coursera.org/learn/regression-models) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/qdXugx5LfYfcea6M)
 |Coursera | [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/p9LDHrN7kmbPsH9z)
-|Coursera | [Developing Data Products](https://www.coursera.org/learn/data-products) |JHU| 100%
+|Coursera | [Developing Data Products](https://www.coursera.org/learn/data-products) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/cZsBp9ZEL344gvTC)
 |Coursera | Data Analysis and Statistical Inference |Duke| [99%](https://www.coursera.org/account/accomplishments/records/kKafJGf24JgrqGes)
 |edX | [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3) |MITx| 96%
 |FutureLearn | Big Data | U. Warwick|100%
 |Coursera | Introduction to Big Data|U. San Diego| [100%](https://www.coursera.org/account/accomplishments/records/FD55F628DK5N)
 |Coursera | Hadoop Platform and Application Framework|U. San Diego | [100%](https://www.coursera.org/account/accomplishments/records/WGTXJPDKF9T3)
 |Coursera | Introduction to Big Data Analytics|U. San Diego | [100%](https://www.coursera.org/account/accomplishments/records/DCUADUGJG737)
-|Coursera | Programming for Everybody |U. Michigan| 100%
-|Coursera | Using Python to Access Web Data |U. Michigan| 100%
-|Coursera | Using Databases with Python |U. Michigan| 100%
+|Coursera | Programming for Everybody |U. Michigan| [100%](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972508)
+|Coursera | [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) |U. Michigan| 100%
+|Coursera | [Using Databases with Python](https://www.coursera.org/learn/python-databases) |U. Michigan| 100%
 |edX | [Introduction to Computer Science and Programming using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/info)     |MITx| 98%
 |edX | [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5) |MITx| 97%  
 |edX | [Data Science and ML Essentials](https://courses.edx.org/courses/course-v1:Microsoft+DAT203x+3T2015/courseware/ff3477b174df4912a9394c2d4b228ce8/b6b2d6976e65447587c67c36616aebcf/) |Microsoft| 93%
 
 `2016`
 
-
+|Coursera|[Data Manipulation at Scale](https://www.coursera.org/learn/data-manipulation)|U. Washington| 100%
 |Lagonita | [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)        |U. Stanford| 88%
 |edX | [Machine Learning](https://www.coursera.org/learn/machine-learning) |U. Stanford| [100%](https://www.coursera.org/account/accomplishments/records/LQ7BBGFUMEBX)
 |edX | [Statistics and R](https://www.edx.org/course/statistics-r-harvardx-ph525-1x-0) |HarvardX| 100%
@@ -109,7 +109,7 @@ Many online courses completed in 2015-2016.  The code written for most of these 
 |edX | [Case Studies in Functional Genomics](https://www.edx.org/course/case-studies-functional-genomics-harvardx-ph525-7x-0) |HarvardX| 99%
 |edX | [Global Warming Science](https://www.edx.org/course/global-warming-science-mitx-12-340x-0) |HarvardX| 100%
 |FutureLearn | Causes of Climate Change |U. Bergen| 100%
-|Coursera | Introduction to programming with Matlab |Vanderbilt U.| [100%](https://www.coursera.org/account/accomplishments/records/2PQZJE545CPP)
+|Coursera | [Introduction to programming with Matlab](https://www.coursera.org/learn/matlab) |Vanderbilt U.| [100%](https://www.coursera.org/account/accomplishments/records/2PQZJE545CPP)
 
 ## Technical skills
 
