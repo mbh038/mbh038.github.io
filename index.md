@@ -28,13 +28,13 @@ __Cornwall College__ HE lecturer, course manager and curriculum area manager.
 __CNRS Lab. Louis Neel__ OXSEN Research Fellow, developing magnetic transistors.
 
 `1996-1997`
-__Physics Department, University of Zuerich__ Oxygen isotope investigations of Hi Tc superconductors using dilatometry.
+__Physics Department, University of Zürich__ Oxygen isotope investigations of Hi Tc superconductors using dilatometry.
 
 `1995-1996`
-__ABB Applied Physics Group, Corporate Research Centre, Baden Daettwil__ Dilatometric studies of 1 MW Hi Tc superconducting current limiter.
+__ABB Applied Physics Group, Corporate Research Centre, Baden Dättwil__ Dilatometric studies of 1 MW Hi Tc superconducting current limiter.
 
 `1995-1996`
-__Solid State Physics Lab., ETH Zuerich__ Low temperature studies of transport properties in metals
+__Solid State Physics Lab., ETH Zürich__ Low temperature studies of transport properties in metals
 
 `1981-1982`
 __Research Centre, British Gas, Solihull, UK__ Coding in FORTRAN and assembly to support gas dispersion investigations.
