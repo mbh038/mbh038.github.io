@@ -3,7 +3,7 @@ layout: cv
 title: Michael Hunt's CV
 ---
 # Michael Hunt
-Physics PhD and aspiring data scientist
+Physics PhD
 
 <div id="webaddress">
 <a href="mailto:mbh038@gmail.com">mbh038@gmail.com</a>
@@ -25,7 +25,7 @@ I have worked as a lecturer in the HE in FE sector for 19 years, having previous
 __Cornwall College__ HE lecturer, course manager and curriculum area manager.
 
 `1997-1998`
-__CNRS Lab. Louis Neel__ OXSEN Research Fellow, developing magnetic transistors.
+__CNRS Lab. Louis Néel, Grenoble__ OXSEN Research Fellow, developing magnetic transistors.
 
 `1996-1997`
 __Physics Department, University of Zürich__ Oxygen isotope investigations of Hi Tc superconductors using dilatometry.
