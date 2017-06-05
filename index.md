@@ -30,10 +30,13 @@ __CNRS Lab. Louis Néel, Grenoble__ OXSEN Research Fellow, developing magnetic t
 `1996-1997`
 __Physics Department, University of Zürich__ Oxygen isotope investigations of Hi Tc superconductors using dilatometry.
 
+`1995-2005`
+__Open University__ Summer School tutor and Associate Lecturer: Quantum Mechanics, Electromagnetism, Physics of Matter.
+
 `1995-1996`
 __ABB Applied Physics Group, Corporate Research Centre, Baden Dättwil__ Dilatometric studies of 1 MW Hi Tc superconducting current limiter.
 
-`1995-1996`
+`1992-1994`
 __Solid State Physics Lab., ETH Zürich__ Low temperature studies of transport properties in metals
 
 `1981-1982`
