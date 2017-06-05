@@ -133,10 +133,10 @@ Many online courses completed in 2015-2016.  The code written for most of these 
 ## Projects
 
 `2017`
-Cornwall College Internal Research Funding: _From relationships to disease.....Real time tracking of social interactions, locomotion and grazing patterns and their potential associations with common production challenges: A pilot study_ (with Anna Walker) Attempt to develop a microntroller based biologger suitable for use on farm animals. The project requires that software be written to control data logging rates in response to state of motion, and then that machine learning methods be used to identify behaviours from accelerometer data alone, with high precision and recall.
+Cornwall College Internal Research Funding: _From relationships to disease.....Real time tracking of social interactions, locomotion and grazing patterns and their potential associations with common production challenges: A pilot study_ (with Anna Walker) Attempt to develop a microntroller based biologger suitable for use on farm animals. The project requires that software be written to control data logging rates in response to state of motion, and then that machine learning methods be used to identify behaviours from accelerometer data alone, with high precision and recall. (C++/R)
 
 `2016`
-_An Energy Future for St Austell:_ Attempt to devise for St Austell the optimum combination of solar and wind energy supply together with pumped storage, given the actual demand of the town, that would minimise imports and exports from the national grid. Solar and wind resource data were simulated using Markov chain techniques and required storage basin sizes and turbine powers were calculated with confidence intervals.
+_An Energy Future for St Austell:_ Attempt to devise for St Austell the optimum combination of solar and wind energy supply together with pumped storage, given the actual demand of the town, that would minimise imports and exports from the national grid. Solar and wind resource data were simulated using Markov chain techniques and required storage basin sizes and turbine powers were calculated with confidence intervals. (R)
 
 ## Interests
 [Trail running](https://www.strava.com/athletes/2833710) - several times a week, most weeks.  
