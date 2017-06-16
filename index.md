@@ -117,6 +117,10 @@ Many online courses completed since 2015.  The code written for most of these ca
 |FutureLearn | Causes of Climate Change |U. Bergen| 100%
 |Coursera | [Introduction to programming with Matlab](https://www.coursera.org/learn/matlab) |Vanderbilt U.| [100%](https://www.coursera.org/account/accomplishments/records/2PQZJE545CPP)
 
+`2017`
+
+|Coursera | [Bayesian Statistics](https://www.coursera.org/learn/bayesian#syllabus) |Duke U.|ongoing
+
 ## Technical skills
 
 Happy to learn new languages as required.
