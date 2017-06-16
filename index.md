@@ -119,7 +119,7 @@ Many online courses completed since 2015.  The code written for most of these ca
 
 `2017`
 
-|Coursera | [Bayesian Statistics](https://www.coursera.org/learn/bayesian#syllabus) |Duke U.|ongoing
+|Coursera | [Bayesian Statistics                     ](https://www.coursera.org/learn/bayesian#syllabus) |Duke U.|ongoing
 
 ## Technical skills
 
