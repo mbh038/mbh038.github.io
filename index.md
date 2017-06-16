@@ -3,8 +3,8 @@ layout: cv
 title: Michael Hunt's CV
 ---
 # Michael Hunt
-Physics PhD, MSc
-Natural Science BA
+Physics PhD, MSc  
+Natural Science BA  
 PGCE
 
 <div id="webaddress">
