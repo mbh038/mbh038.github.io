@@ -72,7 +72,7 @@ I have 24 publications in peer reviewed journals, almost all dating from my year
 
 ## Certifications  
 
-Many online courses completed in 2015-2016.  The code written for most of these can be found in my GitHub repo. Most courses required between 20 and 100 hours of work over 4 - 12 weeks.    
+Many online courses completed since 2015.  The code written for most of these can be found in my GitHub repo. Most courses required between 20 and 100 hours of work over 4 - 12 weeks.    
 
 `2015`  
 
@@ -117,6 +117,8 @@ Many online courses completed in 2015-2016.  The code written for most of these 
 
 ## Technical skills
 
+Happy to learn new languages as required.
+
 * Python
 * R
 * C++
@@ -137,6 +139,9 @@ Cornwall College Internal Research Funding: _From relationships to disease.....R
 
 `2016`
 _An Energy Future for St Austell:_ Attempt to devise for St Austell the optimum combination of solar and wind energy supply together with pumped storage, given the actual demand of the town, that would minimise imports and exports from the national grid. Solar and wind resource data were simulated using Markov chain techniques and required storage basin sizes and turbine powers were calculated with confidence intervals. (R)
+
+## Languages
+I have been fluent in French and German. I used both at work and at home and was good enough to teach in them and read novels. I am less good now. I also have 'O' and 'A' Levels in Danish.
 
 ## Interests
 [Trail running](https://www.strava.com/athletes/2833710) - several times a week, most weeks.  
