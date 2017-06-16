@@ -3,7 +3,9 @@ layout: cv
 title: Michael Hunt's CV
 ---
 # Michael Hunt
-Physics PhD
+Physics PhD, MSc
+Natural Science BA
+PGCE
 
 <div id="webaddress">
 <a href="mailto:mbh038@gmail.com">mbh038@gmail.com</a>
@@ -14,9 +16,9 @@ Physics PhD
 </div>
 
 
-## Currently
+## Profile
 
-I have worked as a lecturer in the HE in FE sector for 19 years, having previously been a research physicist in Switzerland and France for 6 years. I have written, managed and delivered a number of HE courses up to Masters level, including a BSc Renewable Energy and Carbon Management. In the last two years, in an effort to develop my data modelling and analysis skills,  I have successfully completed many (>25) MOOCs in statistical analysis, machine learning, big data and more, mainly using R, and Python but also Matlab, MS Azure and other tools. I have so far used these new skills to carry out market research, to model heat flows in old buildings, to simulate wind speed and solar variation and to model a pumped storage energy solution for a local town.  The heat flow work was part of a long running collaboration with conservation officers within Cornwall Council, funded by a Townscape Heritage Initiative lottery money. It was published last year and presented at an international conference [(EECHB, 2016)](http://www.eechb.eu). I am now embarking on a machine learning/IoT project to develop a biologger and C++ based software to determine the state of movement of farm animals from accelerometer data alone.
+I have worked as a lecturer in the HE in FE sector for 19 years, having previously been a research physicist in Switzerland and France for 6 years. I have written, managed and delivered a number of HE courses up to Masters level, including a BSc Renewable Energy and Carbon Management. In the last two years, in order to develop my data modelling and analysis skills,  I have successfully completed many (>25) MOOCs in statistical analysis, machine learning, big data and more, mainly using R, and Python but also Matlab, MS Azure and other tools. I have so far used these new skills to carry out market research, to model heat flows in old buildings, to simulate wind speed and solar variation and to model a pumped storage energy solution for a local town.  The heat flow work was part of a long running collaboration with conservation officers within Cornwall Council, funded by a Townscape Heritage Initiative lottery money. It was published last year and presented at an international conference [(EECHB, 2016)](http://www.eechb.eu). I am now embarking on a machine learning/IoT project to develop a biologger and C++ based software to determine the state of movement of farm animals from accelerometer data alone.
 
 
 ## Employment
