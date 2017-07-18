@@ -48,6 +48,9 @@ __Research Centre, British Gas, Solihull, UK__ Coding in FORTRAN and assembly to
 
 ## Education
 
+`2000-2002`
+__University of Plymouth__ Post-Compulsory PGCE  
+
 `1989-1992`
 __University of Bristol__ PhD Physics  
 _"A de Haas-van Alphen Investigation of the heavy fermion superconductor CeCu<sub>2</sub>Si2"_  
