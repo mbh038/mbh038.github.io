@@ -122,7 +122,7 @@ Many online courses completed since 2015.  The code written for most of these ca
 
 `2017`
 
-|Coursera | [Bayesian Statistics                     ](https://www.coursera.org/learn/bayesian#syllabus) |Duke U.|DNF|
+|Coursera | [Bayesian Statistics](https://www.coursera.org/learn/bayesian#syllabus) |Duke U.|DNF|
 
 `2018`
 
@@ -130,7 +130,7 @@ Many online courses completed since 2015.  The code written for most of these ca
 |edX |DSE 210x Probability and Statistics in Data Science using Python|UC San DiegoX|99%|    
 |edX |6.431x Probability - The Science of Uncertainty and Data|MITx|99%|    
 
-`2019`
+`2019`  
 
 |MIT OCW | [Linear Algebra                     ](https://www.coursera.org/learn/bayesian#syllabus) |MIT|---|    
 |edX | [Pre-university Calculus                    ](https://www.coursera.org/learn/bayesian#syllabus) |TU Delft|[99%](https://courses.edx.org/certificates/e5dce0f28b0649908537d5dd40d4af07)|  
@@ -141,9 +141,6 @@ Many online courses completed since 2015.  The code written for most of these ca
 
 `2020`  
 |Coursera |Bayesian Statistics: From Concept to Data Analysis| UCSC on Coursera | [100%](https://www.coursera.org/account/accomplishments/certificate/KF3YCZT367ZJ) | 
-
-
-Blabla #2
 
 
 ## Technical skills
