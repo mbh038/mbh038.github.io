@@ -158,14 +158,14 @@ Happy to learn new languages as required.
 Cornwall College Internal Research Funding: _From relationships to disease.....Real time tracking of social interactions, locomotion and grazing patterns and their potential associations with common production challenges: A pilot study_ (with Anna Walker) Attempt to develop a microntroller based biologger suitable for use on farm animals. The project requires that software be written to control data logging rates in response to state of motion, and then that machine learning methods be used to identify behaviours from accelerometer data alone, with high precision and recall. (C++/R)
 
 `2016`
-_An Energy Future for St Austell:_ Attempt to devise for St Austell the optimum combination of solar and wind energy supply together with pumped storage, given the actual demand of the town, that would minimise imports and exports from the national grid. Solar and wind resource data were simulated using Markov chain techniques and required storage basin sizes and turbine powers were calculated with confidence intervals. (R)
+_An Energy Future for St Austell:_ Attempt to devise for St Austell the optimum combination of solar and wind energy supply together with pumped storage, given the actual demand of the town, that would minimise imports and exports from the national grid. Solar and wind resource data were simulated using Markov chain techniques. The required storage basin sizes and turbine powers were calculated with confidence intervals. (R)
 
 ## Languages
 I have been fluent in French and German. I used both at work and at home and was good enough to teach in them and read novels. I am less good now. I also have 'O' and 'A' Levels in Danish.
 
 ## Interests
 [Trail running](https://www.strava.com/athletes/2833710) - several times a week, most weeks.  
-[Project Euler](https://projecteuler.net/progress) - 219 problems solved so far, using Python, C++, Mathematica, Matlab, R and pen and paper. Homing in on the UK top 50.
+[Project Euler](https://projecteuler.net/progress) - 236 problems solved so far, using Python, C++, Mathematica, Matlab, R and pen and paper. Homing in on the UK top 50.
 
 ## Links
 
