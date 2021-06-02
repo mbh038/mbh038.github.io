@@ -1,0 +1,5 @@
+markdown:   kramdown
+theme: jekyll-theme-slate
+title: Welcome to Mike's Data Analysis pages
+description: Visit here for my materials on data analysis
+output_dir: "docs"
