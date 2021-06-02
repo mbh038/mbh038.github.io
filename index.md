@@ -1,6 +1,6 @@
 ---
+title: "Michael Hunt's CV"
 layout: cv
-title: Michael Hunt's CV
 ---
 # Michael Hunt
 Physics PhD, MSc  
