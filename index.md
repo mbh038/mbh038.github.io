@@ -122,7 +122,18 @@ Many online courses completed since 2015.  The code written for most of these ca
 
 `2017`
 
-|Coursera | [Bayesian Statistics                     ](https://www.coursera.org/learn/bayesian#syllabus) |Duke U.|ongoing
+|Coursera | [Bayesian Statistics                     ](https://www.coursera.org/learn/bayesian#syllabus) |Duke U.|ongoing|
+
+`2018`
+
+|edX | [MM1                     ](https://www.coursera.org/learn/bayesian#syllabus) |UCSD|---|
+|edX | [Science of Uncertainty and probability                     ](https://www.coursera.org/learn/bayesian#syllabus) |MIT|99%|
+
+`2019`
+
+|MIT OCW | [Linear Algebra                     ](https://www.coursera.org/learn/bayesian#syllabus) |MIT|ongoing|
+|edX | [Pre-university Calculus                    ](https://www.coursera.org/learn/bayesian#syllabus) |TU Delft|ongoing|
+
 
 ## Technical skills
 
@@ -154,7 +165,7 @@ I have been fluent in French and German. I used both at work and at home and was
 
 ## Interests
 [Trail running](https://www.strava.com/athletes/2833710) - several times a week, most weeks.  
-[Project Euler](https://projecteuler.net/progress) - 181 problems solved so far, using Python, C++, Mathematica, Matlab, R and pen and paper. Homing in on the UK top 50
+[Project Euler](https://projecteuler.net/progress) - 219 problems solved so far, using Python, C++, Mathematica, Matlab, R and pen and paper. Homing in on the UK top 50.
 
 ## Links
 
