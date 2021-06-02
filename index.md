@@ -106,18 +106,18 @@ Many online courses completed since 2015.  The code written for most of these ca
 
 `2016`
 
-|Coursera|[Data Manipulation at Scale](https://www.coursera.org/learn/data-manipulation)|U. Washington| 100%
-|Lagonita | [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)        |U. Stanford| [88%](https://prod-cert-bucket.s3.amazonaws.com/downloads/f638980db18044e2923fab89821b4530/Statement.pdf)
-|edX | [Machine Learning](https://www.coursera.org/learn/machine-learning) |U. Stanford| [100%](https://www.coursera.org/account/accomplishments/records/LQ7BBGFUMEBX)
-|edX | [Statistics and R](https://www.edx.org/course/statistics-r-harvardx-ph525-1x-0) |HarvardX| 100%
-|edX | [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x-1) |HarvardX| 100%
-|edX | [Stat. Inference and Modeling for high-throughput Experiments](https://www.edx.org/course/statistical-inference-modeling-high-harvardx-ph525-3x-0)|HarvardX| [98%](https://courses.edx.org/certificates/09a2ed41e12f4ca081b9b74a8de0c517)
-|edX | [High-Dimensional Data Analysis](https://www.edx.org/course/high-dimensional-data-analysis-harvardx-ph525-4x-0) |HarvardX| [100%](https://courses.edx.org/certificates/fed3b6eff0fb48a0b0b715a63b17e1b0)
-|edX | [Annotation and Analysis of Genomes and Genomic Assays](https://www.edx.org/course/introduction-bioconductor-annotation-harvardx-ph525-5x-0`0) |HarvardX| [99%](https://courses.edx.org/certificates/637cccc9d9d8422d8b83c1ba13c75115)
-|edX | [High-performance Computing for Reproducible Genomics](https://www.edx.org/course/high-performance-computing-reproducible-harvardx-ph525-6x-0) |HarvardX| [99%](https://courses.edx.org/certificates/fc7f9e458c6f4f6fa74dfcb4f4281d39)
-|edX | [Case Studies in Functional Genomics](https://www.edx.org/course/case-studies-functional-genomics-harvardx-ph525-7x-0) |HarvardX| [99%](https://courses.edx.org/certificates/acda3d8ff196497897a748f6e97ce24e)
-|edX | [Global Warming Science](https://www.edx.org/course/global-warming-science-mitx-12-340x-0) |HarvardX| 100%
-|FutureLearn | Causes of Climate Change |U. Bergen| 100%
+|Coursera|[Data Manipulation at Scale](https://www.coursera.org/learn/data-manipulation)|U. Washington| 100%  
+|Lagonita | [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)        |U. Stanford| [88%](https://prod-cert-bucket.s3.amazonaws.com/downloads/f638980db18044e2923fab89821b4530/Statement.pdf)    
+|edX | [Machine Learning](https://www.coursera.org/learn/machine-learning) |U. Stanford| [100%](https://www.coursera.org/account/accomplishments/records/LQ7BBGFUMEBX)  
+|edX | [Statistics and R](https://www.edx.org/course/statistics-r-harvardx-ph525-1x-0) |HarvardX| 100%  
+|edX | [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x-1) |HarvardX| 100%  
+|edX | [Stat. Inference and Modeling for high-throughput Experiments](https://www.edx.org/course/statistical-inference-modeling-high-harvardx-ph525-3x-0)|HarvardX| [98%](https://courses.edx.org/certificates/09a2ed41e12f4ca081b9b74a8de0c517)  
+|edX | [High-Dimensional Data Analysis](https://www.edx.org/course/high-dimensional-data-analysis-harvardx-ph525-4x-0) |HarvardX| [100%](https://courses.edx.org/certificates/fed3b6eff0fb48a0b0b715a63b17e1b0)  
+|edX | [Annotation and Analysis of Genomes and Genomic Assays](https://www.edx.org/course/introduction-bioconductor-annotation-harvardx-ph525-5x-0`0) |HarvardX| [99%](https://courses.edx.org/certificates/637cccc9d9d8422d8b83c1ba13c75115)  
+|edX | [High-performance Computing for Reproducible Genomics](https://www.edx.org/course/high-performance-computing-reproducible-harvardx-ph525-6x-0) |HarvardX| [99%](https://courses.edx.org/certificates/fc7f9e458c6f4f6fa74dfcb4f4281d39)  
+|edX | [Case Studies in Functional Genomics](https://www.edx.org/course/case-studies-functional-genomics-harvardx-ph525-7x-0) |HarvardX| [99%](https://courses.edx.org/certificates/acda3d8ff196497897a748f6e97ce24e)  
+|edX | [Global Warming Science](https://www.edx.org/course/global-warming-science-mitx-12-340x-0) |HarvardX| 100%  
+|FutureLearn | Causes of Climate Change |U. Bergen| 100%  
 |Coursera | [Introduction to programming with Matlab](https://www.coursera.org/learn/matlab) |Vanderbilt U.| [100%](https://www.coursera.org/account/accomplishments/records/2PQZJE545CPP)
 
 `2017`
@@ -126,7 +126,7 @@ Many online courses completed since 2015.  The code written for most of these ca
 
 `2018`
 
-|edX | [MM1                     ](https://www.coursera.org/learn/bayesian#syllabus) |UCSD|---|
+|edX | [MM1                     ](https://www.coursera.org/learn/bayesian#syllabus) |UCSD|---|  
 |edX | [Science of Uncertainty and probability                     ](https://www.coursera.org/learn/bayesian#syllabus) |MIT|99%|
 
 `2019`
