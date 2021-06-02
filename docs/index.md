@@ -143,7 +143,7 @@ Many online courses completed since 2015.  The code written for most of these ca
 |Coursera |Bayesian Statistics: From Concept to Data Analysis| UCSC on Coursera | [100%](https://www.coursera.org/account/accomplishments/certificate/KF3YCZT367ZJ) | 
 
 
-Blabla
+Blabla #2
 
 
 ## Technical skills
