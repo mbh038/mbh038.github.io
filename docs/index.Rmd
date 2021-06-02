@@ -2,6 +2,7 @@
 title: "Michael Hunt's CV"
 layout: cv
 ---
+
 # Michael Hunt
 Physics PhD, MSc  
 Natural Science BA  
@@ -190,3 +191,4 @@ Available on request.
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
