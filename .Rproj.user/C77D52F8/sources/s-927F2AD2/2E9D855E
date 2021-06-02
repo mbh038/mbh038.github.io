@@ -1,9 +1,9 @@
 {
     "id": "2E9D855E",
-    "path": "~/Documents/jekyll/mbh038.github.io/docs/index.Rmd",
-    "project_path": "docs/index.Rmd",
+    "path": "~/Documents/jekyll/mbh038.github.io/docs/index.md",
+    "project_path": "docs/index.md",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2426895040",
     "contents": "",
     "dirty": false,
     "created": 1622647320631.0,
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1622647647446,
+    "last_content_update": 1622647647,
     "read_only": false,
     "read_only_alternatives": []
 }
