@@ -139,6 +139,10 @@ Many online courses completed since 2015.  The code written for most of these ca
 |edX| 18.6501x Fundamentals of Statistics |MITx| [96%](https://courses.edx.org/certificates/e6f3c549693f418fa3f15469b122f2b2)|  
 
 
+`2020`  
+|Coursera |Bayesian Statistics: From Concept to Data Analysis| UCSC on Coursera | [100%](https://www.coursera.org/account/accomplishments/certificate/KF3YCZT367ZJ) | 
+
+
 ## Technical skills
 
 Happy to learn new languages as required.
