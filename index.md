@@ -81,28 +81,28 @@ Many online courses completed since 2015.  The code written for most of these ca
 
 `2015`  
 
-|__Platform__|__Course__|__Institution__|__Grade__
-|Coursera | [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)|JHU        |[100%](https://www.coursera.org/account/accomplishments/records/G8dhtkM92KtfkbCD)
-|Coursera | [R Programming](https://www.coursera.org/learn/r-programming)|JHU|[100%](https://www.coursera.org/account/accomplishments/records/YB5A3haQh69yCd9j)
-|Coursera | [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/haUTYgVwNteRZEgf)
-|Coursera | [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/qntw3gt4WDtvzs5z)
-|Coursera | [Reproducible Research](https://www.coursera.org/learn/reproducible-research) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/Xt2fcr8CuVKRWHJJ)
-|Coursera | [Statistical Inference](https://www.coursera.org/learn/statistical-inference) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/exjFUmUGcL2yDcZM)
-|Coursera | [Regression Models](https://www.coursera.org/learn/regression-models) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/qdXugx5LfYfcea6M)
-|Coursera | [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/p9LDHrN7kmbPsH9z)
-|Coursera | [Developing Data Products](https://www.coursera.org/learn/data-products) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/cZsBp9ZEL344gvTC)
-|Coursera | Data Analysis and Statistical Inference |Duke| [99%](https://www.coursera.org/account/accomplishments/records/kKafJGf24JgrqGes)
+|__Platform__|__Course__|__Institution__|__Grade__  
+|Coursera | [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)|JHU        |[100%](https://www.coursera.org/account/accomplishments/records/G8dhtkM92KtfkbCD)  
+|Coursera | [R Programming](https://www.coursera.org/learn/r-programming)|JHU|[100%](https://www.coursera.org/account/accomplishments/records/YB5A3haQh69yCd9j)  
+|Coursera | [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/haUTYgVwNteRZEgf)  
+|Coursera | [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/qntw3gt4WDtvzs5z)  
+|Coursera | [Reproducible Research](https://www.coursera.org/learn/reproducible-research) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/Xt2fcr8CuVKRWHJJ)  
+|Coursera | [Statistical Inference](https://www.coursera.org/learn/statistical-inference) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/exjFUmUGcL2yDcZM)  
+|Coursera | [Regression Models](https://www.coursera.org/learn/regression-models) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/qdXugx5LfYfcea6M)  
+|Coursera | [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/p9LDHrN7kmbPsH9z)  
+|Coursera | [Developing Data Products](https://www.coursera.org/learn/data-products) |JHU| [100%](https://www.coursera.org/account/accomplishments/records/cZsBp9ZEL344gvTC)  
+|Coursera | Data Analysis and Statistical Inference |Duke| [99%](https://www.coursera.org/account/accomplishments/records/kKafJGf24JgrqGes)  
 |edX | [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3) |MITx| [96%](https://s3.amazonaws.com/verify.edx.org/downloads/289fec175d904a92b89cc02326537180/Certificate.pdf)
-|FutureLearn | Big Data | U. Warwick|100%
-|Coursera | Introduction to Big Data|U. San Diego| [100%](https://www.coursera.org/account/accomplishments/records/FD55F628DK5N)
-|Coursera | Hadoop Platform and Application Framework|U. San Diego | [100%](https://www.coursera.org/account/accomplishments/records/WGTXJPDKF9T3)
-|Coursera | Introduction to Big Data Analytics|U. San Diego | [100%](https://www.coursera.org/account/accomplishments/records/DCUADUGJG737)
-|Coursera | Programming for Everybody |U. Michigan| [100%](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972508)
-|Coursera | [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) |U. Michigan| 100%
-|Coursera | [Using Databases with Python](https://www.coursera.org/learn/python-databases) |U. Michigan| 100%
-|edX | [Introduction to Computer Science and Programming using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/info)     |MITx| [98%](https://courses.edx.org/certificates/a71d94d913a54a4b982a3990074d38aa)
-|edX | [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5) |MITx| [97%](https://courses.edx.org/certificates/722d13ce66e748c08728b6ec2759bff6)  
-|edX | [Data Science and ML Essentials](https://courses.edx.org/courses/course-v1:Microsoft+DAT203x+3T2015/courseware/ff3477b174df4912a9394c2d4b228ce8/b6b2d6976e65447587c67c36616aebcf/) |Microsoft| [93%](https://courses.edx.org/certificates/32b85ed944cb45f6a0c66233f21a5c73)
+|FutureLearn | Big Data | U. Warwick|100%  
+|Coursera | Introduction to Big Data|U. San Diego| [100%](https://www.coursera.org/account/accomplishments/records/FD55F628DK5N)  
+|Coursera | Hadoop Platform and Application Framework|U. San Diego | [100%](https://www.coursera.org/account/accomplishments/records/WGTXJPDKF9T3)  
+|Coursera | Introduction to Big Data Analytics|U. San Diego | [100%](https://www.coursera.org/account/accomplishments/records/DCUADUGJG737)  
+|Coursera | Programming for Everybody |U. Michigan| [100%](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972508)  
+|Coursera | [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) |U. Michigan| 100%  
+|Coursera | [Using Databases with Python](https://www.coursera.org/learn/python-databases) |U. Michigan| 100%  
+|edX | [Introduction to Computer Science and Programming using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/info)     |MITx| [98%](https://courses.edx.org/certificates/a71d94d913a54a4b982a3990074d38aa)  
+|edX | [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5) |MITx| [97%](https://courses.edx.org/certificates/722d13ce66e748c08728b6ec2759bff6)    
+|edX | [Data Science and ML Essentials](https://courses.edx.org/courses/course-v1:Microsoft+DAT203x+3T2015/courseware/ff3477b174df4912a9394c2d4b228ce8/b6b2d6976e65447587c67c36616aebcf/) |Microsoft| [93%](https://courses.edx.org/certificates/32b85ed944cb45f6a0c66233f21a5c73)  
 
 `2016`
 
@@ -122,17 +122,21 @@ Many online courses completed since 2015.  The code written for most of these ca
 
 `2017`
 
-|Coursera | [Bayesian Statistics                     ](https://www.coursera.org/learn/bayesian#syllabus) |Duke U.|ongoing|
+|Coursera | [Bayesian Statistics                     ](https://www.coursera.org/learn/bayesian#syllabus) |Duke U.|DNF|
 
 `2018`
 
-|edX | [MM1                     ](https://www.coursera.org/learn/bayesian#syllabus) |UCSD|---|  
-|edX | [Science of Uncertainty and probability                     ](https://www.coursera.org/learn/bayesian#syllabus) |MIT|99%|
+|edX | [MM1                     ](https://www.coursera.org/learn/bayesian#syllabus) |UCSD|---|    
+|edX |DSE 210x Probability and Statistics in Data Science using Python|UC San DiegoX|99%|    
+|edX |6.431x Probability - The Science of Uncertainty and Data|MITx|99%|    
 
 `2019`
 
-|MIT OCW | [Linear Algebra                     ](https://www.coursera.org/learn/bayesian#syllabus) |MIT|ongoing|
-|edX | [Pre-university Calculus                    ](https://www.coursera.org/learn/bayesian#syllabus) |TU Delft|ongoing|
+|MIT OCW | [Linear Algebra                     ](https://www.coursera.org/learn/bayesian#syllabus) |MIT|---|    
+|edX | [Pre-university Calculus                    ](https://www.coursera.org/learn/bayesian#syllabus) |TU Delft|[99%](https://courses.edx.org/certificates/e5dce0f28b0649908537d5dd40d4af07)|  
+|edX |14.310x Data Analysis for Social Scientists| MITx | 88% |  
+|edX | 6.86x Machine Learning with Python - from Linear Models to Deep Learning | MITx | 96% |   
+|edX| 18.6501x Fundamentals of Statistics |MITx| [96%](https://courses.edx.org/certificates/e6f3c549693f418fa3f15469b122f2b2)|  
 
 
 ## Technical skills
